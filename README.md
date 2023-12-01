@@ -1,2 +1,2 @@
-# adamganiu11-repository
+# Blog - adamganiu11
 creating a repository as an assignment in my 23W -GBAC class.
