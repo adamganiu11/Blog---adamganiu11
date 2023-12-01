@@ -1,2 +1,5 @@
 # Blog - adamganiu11
-creating a repository as an assignment in my 23W -GBAC class.
+
+# ENHANCING ACCESS TO HEALTHCARE DELIVERY IN GHANA
+
+I am Adam Ganiu from Ghana.In this blog, I will like to write about healthcare accessibility and delivery in Ghana.
